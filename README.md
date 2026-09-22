@@ -1,6 +1,6 @@
-# bm — Bookmarks, pass-style
+# Bookmarks in pass-style
 
-`bm` is a simple command-line bookmark manager inspired by [`pass`](https://www.passwordstore.org/). It comes with a OpenClaw integation, easy to save your bookmarks in git.
+Bookmarks `bm` is a simple command-line bookmark manager inspired by [`pass`](https://www.passwordstore.org/). It comes with a OpenClaw integation, easy to save your bookmarks in git.
 
 Instead of storing bookmarks in a database, **each bookmark is stored as a small Markdown file in a normal directory tree**.
 
